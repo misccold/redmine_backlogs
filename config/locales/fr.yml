@@ -84,7 +84,7 @@ fr:
   error_no_workflow_for_task_tracker: "Vous n'avez pas accès au tracker de tâches. Si vous pensez que c'est une erreur, demandez à votre administrateur de mettre à jour le workflow."
   error_outro: "Veuillez corriger les erreurs ci-dessus avant de soumettre à nouveau."
   error_release_end_after_start: "La date de fin de Release doit être après la date de début"
-  error_sprint_end_before_start: "Une itération ne peut pas finir avant d'avoir commencer"
+  error_sprint_end_before_start: "Une itération ne peut pas finir avant d'avoir commencé"
   error_taken: "est déjà utilisé"
   event_sprint_summary: "%{project}: %{summary}"
   field_assigned_to: "Assigné à"
